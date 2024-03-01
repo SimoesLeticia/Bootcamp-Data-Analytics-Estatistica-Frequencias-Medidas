@@ -1,6 +1,6 @@
 # Bootcamp Data Analytics - Estatística: Frequências e Medidas
 
-Este repositório contém a resolução dos exercícios propostos no desafio final do módulo **Estatística Frequências e Medidas** do Bootcamp Data Analytics [WoMakersCode](https://womakerscode.org/). O foco principal desses exercícios é a análise e interpretação dos dados utilizando uma base fictícia que representa as notas dos candidatos do ENEM 2023.
+Este repositório contém a resolução dos exercícios propostos no desafio final do módulo **Estatística: Frequências e Medidas** do Bootcamp Data Analytics [WoMakersCode](https://womakerscode.org/). O foco principal desses exercícios é a análise e interpretação dos dados utilizando uma base fictícia que representa as notas dos candidatos do ENEM 2023.
 
 ## Como Utilizar
 
